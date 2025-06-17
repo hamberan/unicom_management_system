@@ -1,0 +1,17 @@
+Z:\New folder\unicom_management_system\UMS\bin\Debug\UMS.exe
+Z:\New folder\unicom_management_system\UMS\bin\Debug\UMS.exe.config
+Z:\New folder\unicom_management_system\UMS\bin\Debug\UMS.pdb
+Z:\New folder\unicom_management_system\UMS\bin\Debug\System.Data.SQLite.dll
+Z:\New folder\unicom_management_system\UMS\bin\Debug\System.Data.SQLite.xml
+Z:\New folder\unicom_management_system\UMS\obj\Debug\UMS.csproj.AssemblyReference.cache
+Z:\New folder\unicom_management_system\UMS\obj\Debug\UMS.Properties.Resources.resources
+Z:\New folder\unicom_management_system\UMS\obj\Debug\UMS.Views.LoginForm.resources
+Z:\New folder\unicom_management_system\UMS\obj\Debug\UMS.Views.AdminMainForm.resources
+Z:\New folder\unicom_management_system\UMS\obj\Debug\UMS.Views.StaffMainForm.resources
+Z:\New folder\unicom_management_system\UMS\obj\Debug\UMS.Views.lblWellcome.resources
+Z:\New folder\unicom_management_system\UMS\obj\Debug\UMS.csproj.GenerateResource.cache
+Z:\New folder\unicom_management_system\UMS\obj\Debug\UMS.csproj.CoreCompileInputs.cache
+Z:\New folder\unicom_management_system\UMS\obj\Debug\UMS.csproj.Up2Date
+Z:\New folder\unicom_management_system\UMS\obj\Debug\UMS.exe
+Z:\New folder\unicom_management_system\UMS\obj\Debug\UMS.pdb
+Z:\New folder\unicom_management_system\UMS\obj\Debug\UMS.Form1.resources

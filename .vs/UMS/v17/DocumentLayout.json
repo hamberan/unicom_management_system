@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\New folder\\unicom_management_system\\UMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|Z:\\New folder\\unicom_management_system\\UMS\\views\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:views\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|Z:\\New folder\\unicom_management_system\\UMS\\views\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:views\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|Z:\\New folder\\unicom_management_system\\UMS\\views\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:views\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|Z:\\New folder\\unicom_management_system\\UMS\\views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:views\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\views\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:views\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:models\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\controllers\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:controllers\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:models\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|z:\\new folder\\unicom_management_system\\ums\\views\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0318F5-A181-4662-9CE0-6707CD7F1A24}|UMS.csproj|solutionrelative:views\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:20:10.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ExamController.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "Controllers\\ExamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:21:13.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Repositories\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Repositories\\DatabaseManager.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Repositories\\DatabaseManager.cs",
+              "RelativeToolTip": "Repositories\\DatabaseManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:45:15.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:21:21.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Views\\LoginForm.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Views\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:44:42.067Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffMainForm.cs [Design]",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\StaffMainForm.cs",
+              "RelativeDocumentMoniker": "Views\\StaffMainForm.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\StaffMainForm.cs [Design]",
+              "RelativeToolTip": "Views\\StaffMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:44:44.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentMainForm.cs [Design]",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\StudentMainForm.cs",
+              "RelativeDocumentMoniker": "Views\\StudentMainForm.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\StudentMainForm.cs [Design]",
+              "RelativeToolTip": "Views\\StudentMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:44:49.76Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminMainForm.cs [Design]",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "Views\\AdminMainForm.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\AdminMainForm.cs [Design]",
+              "RelativeToolTip": "Views\\AdminMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:44:38.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "Models\\Exam.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Exam.cs",
+              "RelativeToolTip": "Models\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:38:53.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Views\\LoginForm.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\LoginForm.cs",
+              "RelativeToolTip": "Views\\LoginForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:11:50.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseForm.cs [Design]",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\CourseForm.cs",
+              "RelativeDocumentMoniker": "Views\\CourseForm.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\CourseForm.cs [Design]",
+              "RelativeToolTip": "Views\\CourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:23:25.099Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:21:11.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:10:26.267Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Room.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:39:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mark.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Mark.cs",
+              "RelativeDocumentMoniker": "Models\\Mark.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Mark.cs",
+              "RelativeToolTip": "Models\\Mark.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:39:00.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:21:18.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MarkController.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Controllers\\MarkController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MarkController.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Controllers\\MarkController.cs",
+              "RelativeToolTip": "Controllers\\MarkController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:21:16.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:39:16.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:21:15.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:39:32.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Models\\Subject.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Subject.cs",
+              "RelativeToolTip": "Models\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:39:21.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Timetable.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Timetable.cs",
+              "RelativeDocumentMoniker": "Models\\Timetable.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Models\\Timetable.cs",
+              "RelativeToolTip": "Models\\Timetable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:39:26.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T04:53:45.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StaffMainForm.cs",
+              "DocumentMoniker": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\StaffMainForm.cs",
+              "RelativeDocumentMoniker": "Views\\StaffMainForm.cs",
+              "ToolTip": "Z:\\New folder\\unicom_management_system\\UMS\\Views\\StaffMainForm.cs",
+              "RelativeToolTip": "Views\\StaffMainForm.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T05:02:28.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
